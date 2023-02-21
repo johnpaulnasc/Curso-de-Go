@@ -1,1 +1,1 @@
-# Curso de Go : A linguagem do Google(ALURA)
+# Curso de Go : A linguagem do Google
